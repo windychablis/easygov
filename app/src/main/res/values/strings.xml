@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasyGov</string>
+    <string name="tab_index">首页</string>
+    <string name="tab_indicator">办事大厅</string>
+    <string name="tab_notice">咨询</string>
+    <string name="tab_user">个人中心</string>
+
+    <string name="alert_title">政务提示</string>
+    <string name="ok">确定</string>
+    <string name="cancle">取消</string>
+    <string name="oncalcle">取消</string>
+    <string name="pleasewait">请稍候&#8230;</string>
+
+    <!--首页字符串-->
+    <string name="index_tips_string">个人推荐</string>
+
+
+    <!--个人中心字符串-->
+    <string name="personal_not_login_string">未登录</string>
+    <string name="personal_info_string">个人资料</string>
+    <string name="personal_msg_string">办事消息</string>
+    <string name="personal_history_string">历史记录</string>
+    <string name="personal_collection_string">资讯收藏</string>
+    <string name="personal_feebback_string">意见反馈</string>
+    <string name="personal_loginout_string">退出</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
